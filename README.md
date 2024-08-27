@@ -1,8 +1,8 @@
 # Face Detection and Attendance System
 
-    cv2.imshow('Webcam',img)
-    <img width="483" alt="image" src="https://github.com/user-attachments/assets/6dba32e6-d152-4788-9229-e2e999582fa6">
-    <img width="483" alt="image" src="https://github.com/user-attachments/assets/16f8e9ce-88ef-4727-9a4a-d11c8ec4a799">
+cv2.imshow('Webcam',img)
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/6dba32e6-d152-4788-9229-e2e999582fa6">
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/16f8e9ce-88ef-4727-9a4a-d11c8ec4a799">
 
 ## Project Overview
 This project implements a real-time face detection and attendance system using Python, OpenCV, and the face_recognition library. The system captures live video feed from a webcam, detects faces, and matches them against a set of pre-stored images to record attendance.
